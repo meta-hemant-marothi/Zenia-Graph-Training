@@ -1,0 +1,18 @@
+Onboarding Guide - TechNova Solutions
+
+1. Day 1:
+   - Welcome session with HR at 10 AM.
+   - IT will set up your laptop and access.
+
+2. Week 1:
+   - Complete all onboarding modules via the LMS.
+   - Attend team intro and shadow a senior teammate.
+
+3. Tools Access:
+   - Email, GitHub, JIRA, Confluence, and Zoom setup provided on Day 1.
+
+4. Buddy System:
+   - Each new hire is assigned a buddy for the first 30 days to ease transition.
+
+5. First Review:
+   - Your manager will schedule a check-in at the end of Week 2 to review progress and goals.
